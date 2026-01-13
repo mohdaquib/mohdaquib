@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohd Aquib
 
 🚀 **Senior Android Engineer | 9+ Years Experience**  
-📍 Singapore | 🌍 Open to EU / UK / Global relocation  
+📍 Singapore | 🌍 Open to EU / UK / US / Canada / Global relocation  
 📱 Android • Jetpack Compose • Performance • System Design
 
 ---
@@ -37,7 +37,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - ViewModel-driven state with unidirectional data flow  
 
 **Tech:** Jetpack Compose, Kotlin, Coroutines, WebSockets, Clean Architecture  
-👉 **Repo:** https://github.com/<your-username>/Realtime-Price-Tracker
+👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
 
 ---
 
@@ -49,7 +49,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - Secure key management with encrypted preferences  
 
 **Tech:** Kotlin, Room, SQLCipher, OkHttp, Android Security APIs  
-👉 **Repo:** https://github.com/<your-username>/SecureVault
+👉 **Repo:** [https://github.com/mohdaquib/SecureVault](https://github.com/mohdaquib/SecureVault)
 
 ---
 
