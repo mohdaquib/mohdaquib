@@ -77,7 +77,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 ---
 
 ### 🧩 SDUI-Compose (Server Driven Ui -> Compose) - In Progress  
-**Problem:** Building a library to convert server driven response of UI into Jetpack Compose screens 
+**Problem:** Building a library to convert server driven response of UI into Jetpack Compose screens  
 **Solution:**  
 - Convert Server Driven response into Jetpack Compose screen
 
