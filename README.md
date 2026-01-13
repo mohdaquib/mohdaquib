@@ -17,7 +17,8 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 ## 🧠 Technical Strengths
 
 - **Languages:** Kotlin (primary), Java  
-- **UI & Frameworks:** Jetpack Compose, Material 3, custom layouts  
+- **UI & Frameworks:** Jetpack Compose, Compose Multiplatform, Material 3, custom layouts
+- **Multiplatform:**: Kotlin Multiplatform (KMP), shared domain & data layers 
 - **Architecture:** MVVM, Clean Architecture, multi-module design  
 - **Concurrency & State:** Coroutines, Flow, Channels, structured concurrency  
 - **Networking:** Retrofit, OkHttp, WebSockets, GraphQL (Apollo)  
@@ -36,8 +37,10 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - UI built with Compose Multiplatform (CMP)
 - Clean separation between platform-specific and shared code
 
-**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client
+**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client  
 👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
+
+---
 
 ### 📈 Realtime Price Tracker
 **Problem:** Smooth real-time UI updates without jank or excessive recomposition  
