@@ -29,6 +29,16 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 
 ## 🚀 Selected Engineering Projects
 
+###  🍽️ RecipeViewer (KMP + Compose Multiplatform)
+**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.
+**Solution:** 
+- Shared domain & data layers using Kotlin Multiplatform (KMP)
+- UI built with Compose Multiplatform (CMP)
+- Clean separation between platform-specific and shared code
+
+**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client
+👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
+
 ### 📈 Realtime Price Tracker
 **Problem:** Smooth real-time UI updates without jank or excessive recomposition  
 **Solution:**  
@@ -37,7 +47,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - ViewModel-driven state with unidirectional data flow  
 
 **Tech:** Jetpack Compose, Kotlin, Coroutines, WebSockets, Clean Architecture  
-👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
+👉 **Repo:** [https://github.com/mohdaquib/RecipeViewer](https://github.com/mohdaquib/RecipeViewer)
 
 ---
 
@@ -84,15 +94,15 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 ## 🌍 Why This GitHub Exists
 
 This profile showcases **production-minded Android engineering**—not demos.  
-Each project focuses on **real-world problems** relevant to **FAANG-scale applications**, emphasizing performance, security, and architectural clarity.
+Each project focuses on **real-world problems** relevant to **Large-scale applications**, emphasizing performance, security, and architectural clarity.
 
 ---
 
 ## 🤝 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/<your-linkedin>
-- 🧑‍💻 GitHub: https://github.com/<your-username>
-- ✉️ Email: <your-email>
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohd-aquib-99098980](https://www.linkedin.com/in/mohd-aquib-99098980/)
+- 🧑‍💻 GitHub: [https://github.com/mohdaquib](https://github.com/mohdaquib)
+- ✉️ Email: mohd.aquib09@gmail.com
 
 ---
 
