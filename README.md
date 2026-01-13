@@ -31,7 +31,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 ## 🚀 Selected Engineering Projects
 
 ###  🍽️ RecipeViewer (KMP + Compose Multiplatform)
-**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.
+**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.  
 **Solution:** 
 - Shared domain & data layers using Kotlin Multiplatform (KMP)
 - UI built with Compose Multiplatform (CMP)
@@ -76,7 +76,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 
 ---
 
-### 🧩 SDUI-Compose (Server Driven Ui -> Compose) - In Progress
+### 🧩 SDUI-Compose (Server Driven Ui -> Compose) - In Progress  
 **Problem:** Building a library to convert server driven response of UI into Jetpack Compose screens 
 **Solution:**  
 - Convert Server Driven response into Jetpack Compose screen
