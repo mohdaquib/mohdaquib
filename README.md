@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohd Aquib
 
-🚀 **Senior Android Engineer | 9+ Years Experience**  
+🚀 **Senior Android Engineer | 10+ Years Experience**  
 📍 Singapore | 🌍 Open to EU / UK / US / Canada / Global relocation  
 📱 Android • Jetpack Compose • Performance • System Design
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 Professional Summary
 
-Senior Android Engineer with **9+ years of experience** building **large-scale, high-performance mobile applications** used by **1M+ users** in production environments. Strong background in **Jetpack Compose migration**, **performance optimization**, **secure data handling**, and **clean architecture** for complex Android ecosystems.
+Senior Android Engineer with **10+ years of experience** building **large-scale, high-performance mobile applications** used by **1M+ users** in production environments. Strong background in **Jetpack Compose migration**, **performance optimization**, **secure data handling**, and **clean architecture** for complex Android ecosystems.
 
 I focus on solving **non-trivial engineering problems**—real-time UI updates, recomposition control, startup time reduction, memory optimization, and secure persistence—while maintaining strong engineering standards and long-term maintainability.
 
@@ -63,25 +63,6 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 
 **Tech:** Kotlin, Room, SQLCipher, OkHttp, Android Security APIs  
 👉 **Repo:** [https://github.com/mohdaquib/SecureVault](https://github.com/mohdaquib/SecureVault)
-
----
-
-### 🧩 Adaptive Compose (In Progress)
-**Problem:** Building scalable UI systems across phones, tablets, and foldables  
-**Solution:**  
-- Slot-based APIs for layout extensibility  
-- Adaptive breakpoints with performance awareness  
-
-👉 **Repo:** Coming soon
-
----
-
-### 🧩 SDUI-Compose (Server Driven Ui -> Compose) - In Progress  
-**Problem:** Building a library to convert server driven response of UI into Jetpack Compose screens  
-**Solution:**  
-- Convert Server Driven response into Jetpack Compose screen
-
-👉 **Repo:** Coming soon
 
 ---
 
