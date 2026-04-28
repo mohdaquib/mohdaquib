@@ -38,7 +38,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - ViewModel-driven state with unidirectional data flow  
 
 **Tech:** Jetpack Compose, Kotlin, Coroutines, WebSockets, Clean Architecture  
-👉 **Repo:** [https://github.com/mohdaquib/RecipeViewer](https://github.com/mohdaquib/RecipeViewer)
+👉 **Repo:** [https://github.com/mohdaquib/Price-Pulse](https://github.com/mohdaquib/Price-Pulse)
 
 ---
 
@@ -50,7 +50,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - Clean separation between platform-specific and shared code
 
 **Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client  
-👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
+👉 **Repo:** [https://github.com/mohdaquib/RecipeViewer](https://github.com/mohdaquib/RecipeViewer)
 
 ---
 
