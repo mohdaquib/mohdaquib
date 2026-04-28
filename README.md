@@ -30,19 +30,7 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 
 ## 🚀 Selected Engineering Projects
 
-###  🍽️ RecipeViewer (KMP + Compose Multiplatform)
-**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.  
-**Solution:** 
-- Shared domain & data layers using Kotlin Multiplatform (KMP)
-- UI built with Compose Multiplatform (CMP)
-- Clean separation between platform-specific and shared code
-
-**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client  
-👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
-
----
-
-### 📈 Realtime Price Tracker
+### 📈 Price-Pulse
 **Problem:** Smooth real-time UI updates without jank or excessive recomposition  
 **Solution:**  
 - WebSocket-based real-time data stream  
@@ -54,15 +42,15 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 
 ---
 
-### 🔐 SecureVault
-**Problem:** Secure storage and network communication in production Android apps  
-**Solution:**  
-- SSL pinning to prevent MITM attacks  
-- Encrypted Room database using SQLCipher  
-- Secure key management with encrypted preferences  
+###  🍽️ RecipeViewer (KMP + Compose Multiplatform)
+**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.  
+**Solution:** 
+- Shared domain & data layers using Kotlin Multiplatform (KMP)
+- UI built with Compose Multiplatform (CMP)
+- Clean separation between platform-specific and shared code
 
-**Tech:** Kotlin, Room, SQLCipher, OkHttp, Android Security APIs  
-👉 **Repo:** [https://github.com/mohdaquib/SecureVault](https://github.com/mohdaquib/SecureVault)
+**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client  
+👉 **Repo:** [https://github.com/mohdaquib/Realtime-Price-Tracker](https://github.com/mohdaquib/Realtime-Price-Tracker)
 
 ---
 
