@@ -8,9 +8,19 @@
 
 ## 🧑‍💼 Professional Summary
 
-Senior Android Engineer with **10+ years of experience** building **large-scale, high-performance mobile applications** used by **1M+ users** in production environments. Strong background in **Jetpack Compose migration**, **performance optimization**, **secure data handling**, and **clean architecture** for complex Android ecosystems.
+Senior Android Engineer with **10+ years of experience** building **large-scale, high-performance mobile applications, system design** used by **1M+ users** in production environments. Strong background in **Jetpack Compose migration**, **performance optimization**, **secure data handling**, and **clean architecture** for complex Android ecosystems.
 
 I focus on solving **non-trivial engineering problems**—real-time UI updates, recomposition control, startup time reduction, memory optimization, and secure persistence—while maintaining strong engineering standards and long-term maintainability.
+
+---
+
+## 🚀 Selected Engineering Projects
+| Project | Description | Key Impact | Tech Stack | Link |
+|--------|-------------|-----------|-----------|------|
+| AndroidPerfLab | Performance lab showcasing real-world Compose optimization with visual proof using Layout Inspector | Demonstrates recomposition issues vs optimized UI with measurable insights | Kotlin, Jetpack Compose, Coroutines | [Repo](https://github.com/mohdaquib/AndroidPerfLab) |
+| Price-Pulse | Real-time stock tracker with smooth UI updates using WebSockets | Solves high-frequency UI updates without jank | Kotlin, Compose, WebSockets, Flow | [Repo](https://github.com/mohdaquib/Price-Pulse) |
+| SecureVault | Secure data storage + networking with SSL pinning and encrypted database | Showcases production-grade security practices in Android apps | Kotlin, SQLCipher, Retrofit, OkHttp | [Repo](https://github.com/mohdaquib/SecureVault) |
+| RecipeViewer (KMP) | Cross-platform recipe app with shared business logic across Android, iOS, Web | Demonstrates scalable KMP + Compose Multiplatform architecture | KMP, Compose Multiplatform, Ktor | [Repo](https://github.com/mohdaquib/RecipeViewer) |
 
 ---
 
@@ -25,32 +35,6 @@ I focus on solving **non-trivial engineering problems**—real-time UI updates, 
 - **Data & Security:** Room, SQLCipher, DataStore, encrypted preferences  
 - **Performance:** Startup optimization, recomposition tuning, memory & ANR reduction  
 - **Tooling & Infra:** Dagger/Hilt, Gradle, CI/CD, ProGuard/R8  
-
----
-
-## 🚀 Selected Engineering Projects
-
-### 📈 Price-Pulse
-**Problem:** Smooth real-time UI updates without jank or excessive recomposition  
-**Solution:**  
-- WebSocket-based real-time data stream  
-- Buffered UI updates to control recomposition frequency  
-- ViewModel-driven state with unidirectional data flow  
-
-**Tech:** Jetpack Compose, Kotlin, Coroutines, WebSockets, Clean Architecture  
-👉 **Repo:** [https://github.com/mohdaquib/Price-Pulse](https://github.com/mohdaquib/Price-Pulse)
-
----
-
-###  🍽️ RecipeViewer (KMP + Compose Multiplatform)
-**Problem:** A modern Kotlin Multiplatform + Compose Multiplatform recipe browser using TheMealDB API. Runs on Android, iOS, Desktop (JVM), and Web (WASM) with shared business logic & UI.  
-**Solution:** 
-- Shared domain & data layers using Kotlin Multiplatform (KMP)
-- UI built with Compose Multiplatform (CMP)
-- Clean separation between platform-specific and shared code
-
-**Tech:** Kotlin Multiplatform, Compose Multiplatform, Coroutines, Flow, Voyager Navigation, Coil Compose, Ktor Client  
-👉 **Repo:** [https://github.com/mohdaquib/RecipeViewer](https://github.com/mohdaquib/RecipeViewer)
 
 ---
 
